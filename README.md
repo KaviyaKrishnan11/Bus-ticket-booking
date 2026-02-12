@@ -4,7 +4,6 @@ Stores booking details in Oracle Database
 Performs validation and prevents duplicate bookings
 Follows MVC architecture for proper application flow
 Runs on Apache Tomcat server demonstrating Java web development concepts.
-
 Output:
 <img width="738" height="648" alt="Screenshot 2026-02-12 180518" src="https://github.com/user-attachments/assets/65ecdbe4-f216-4da5-bf1d-e926e1015586" />
 
